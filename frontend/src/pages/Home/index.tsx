@@ -1,6 +1,5 @@
 import Footer from "components/Footer";
 import NavBar from "components/NavBar";
-import { SSL_OP_NO_TLSv1_1 } from "constants";
 import { Link } from "react-router-dom";
 
 function Home() {
